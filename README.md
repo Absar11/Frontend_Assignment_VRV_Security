@@ -138,4 +138,3 @@ This Admin Dashboard demonstrates **RBAC** implementation in React through role 
 
 ---
 
-You can further tweak or add details to fit the specific features or functionality of your project.
