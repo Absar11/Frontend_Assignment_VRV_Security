@@ -105,8 +105,8 @@ Use these pre-configured accounts to test login functionalities:
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/admin-dashboard-rbac.git  
-   cd admin-dashboard-rbac  
+   git clone https://git@github.com:Absar11/Frontend_Assignment_VRV_Security.git 
+   cd frontend  
    ```  
 
 2. **Install Dependencies**  
